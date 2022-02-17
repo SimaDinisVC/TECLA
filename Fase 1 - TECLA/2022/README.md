@@ -1,0 +1,1 @@
+I and my friend Pedro Rodiguez only do the firt 3 exercises, because we have no knowledge of matrices dictionaries at the moment. Only the first place can also do the exercise D so i think we did pretty good at it.
