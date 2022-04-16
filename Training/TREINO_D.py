@@ -1,0 +1,17 @@
+x, y = input().split()
+xr1, yr1 = input().split()
+xr2, yr2 = input().split()
+x = int(x)
+y = int(y)
+xr1 = int(xr1)
+xr2 = int(xr2)
+yr1 = int(yr1)
+yr2 = int(yr2)
+maxx = max(xr1,xr2)
+maxy = max(yr1,yr2)
+miny = min(yr1,yr2)
+minx = min(xr1,xr2)
+if (x < maxx and x > minx) and (y < maxy and y > miny):
+    print(1)
+else:
+    print(0)
